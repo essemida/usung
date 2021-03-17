@@ -1,4 +1,4 @@
-discord.py== 0.16.12
-asyncio.py== 0.16.12
-commands.py== 0.16.12
-random.py== 0.16.12
+discord.py
+asyncio.py
+commands.py
+random.py
