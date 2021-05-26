@@ -1,1 +1,1 @@
-workwer:python usung.py
+workwer:node usung.js
