@@ -1,4 +1,0 @@
-discord.py
-asyncio.py
-commands.py
-random.py
